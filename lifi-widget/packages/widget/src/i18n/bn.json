@@ -1,0 +1,298 @@
+{
+  "language": {
+    "name": "বাংলা",
+    "title": "ভাষা"
+  },
+  "format": {
+    "currency": "{{value, currency(currency: USD)}}",
+    "number": "{{value, number(maximumFractionDigits: 9)}}"
+  },
+  "button": {
+    "auto": "স্বয়ংক্রিয়",
+    "bookmark": "",
+    "bookmarks": "",
+    "bridge": "",
+    "buy": "",
+    "buyNow": "",
+    "cancel": "বাতিল করুন",
+    "changeWallet": "",
+    "close": "",
+    "confirm": "",
+    "connectWallet": "ওয়ালেট সংযুক্ত করুন",
+    "contactSupport": "সাপোর্ট এ যোগাযোগ করুন",
+    "continue": "এগিয়ে যান",
+    "copyAddress": "ঠিকানা কপি করুন",
+    "dark": "অন্ধকার",
+    "delete": "মুছে ফেলুন",
+    "disconnect": "সংযোগ বিচ্ছিন্ন করুন",
+    "done": "সম্পন্ন হয়েছে",
+    "exchange": "",
+    "getGas": "গ্যাস পান",
+    "hide": "গোপন করুন",
+    "learnMore": "আরও জানুন",
+    "lifiCheckout": "",
+    "lifiExchange": "",
+    "light": "লাইট",
+    "max": "সর্বোচ্চ",
+    "ok": "ঠিক আছে",
+    "options": "",
+    "removeTransaction": "",
+    "reset": "পুনরায় সেট করুন",
+    "resetSettings": "সেটিংস রিসেট করুন",
+    "reviewBridge": "",
+    "reviewPurchase": "",
+    "reviewSwap": "সোওয়াপ পর্যালোচনা করুন",
+    "seeDetails": "বিস্তারিত দেখুন",
+    "showAll": "সবগুলো দেখুন",
+    "startBridging": "",
+    "startSwapping": "",
+    "swap": "সোওয়াপ",
+    "tryAgain": "আবার চেষ্টা করুন",
+    "viewCoverage": "কভারেজ দেখুন",
+    "viewOnExplorer": "এক্সপ্লোরারে দেখুন"
+  },
+  "header": {
+    "activeTransactions": "",
+    "bookmarkedWallets": "",
+    "bridge": "",
+    "checkout": "চেকআউট",
+    "exchange": "",
+    "from": "থেকে সোওয়াপ করুন",
+    "gas": "গ্যাস",
+    "payWith": "",
+    "purchase": "",
+    "purchaseDetails": "",
+    "recentWallets": "",
+    "selectChain": "চেইন নির্বাচন করুন",
+    "selectWallet": "আপনার ওয়ালেট নির্বাচন করুন",
+    "sendToWallet": "",
+    "settings": "সেটিংস",
+    "swap": "সোওয়াপ",
+    "to": "সোওয়াপ করুন",
+    "transactionDetails": "",
+    "transactionHistory": "",
+    "walletConnected": "ওয়ালেট সংযুক্ত",
+    "youGet": ""
+  },
+  "info": {
+    "message": {
+      "autoRefuel": "আপনার {{chainName}} গ্যাস কম। চালিয়ে যাওয়ার মাধ্যমে, আপনি সোওয়াপ সম্পূর্ণ করার জন্য পর্যাপ্ত গ্যাস পাবেন।",
+      "emptyActiveTransactions": "",
+      "emptyTokenList": "",
+      "emptyTransactionHistory": "",
+      "routeNotFound": "",
+      "fundsToExchange": ""
+    },
+    "title": {
+      "autoRefuel": "গ্যাস পান",
+      "emptyActiveTransactions": "",
+      "emptyTransactionHistory": "",
+      "routeNotFound": "কোন রুট উপলব্ধ"
+    }
+  },
+  "success": {
+    "message": {
+      "exchangePartiallySuccessful": "",
+      "exchangeSuccessful": "",
+      "purchaseSuccessful": ""
+    },
+    "title": {
+      "bridgePartiallySuccessful": "",
+      "bridgeSuccessful": "",
+      "purchaseSuccessful": "",
+      "refundIssued": "রিফান্ড জারি করা হয়েছে",
+      "swapPartiallySuccessful": "সোওয়াপ আংশিকভাবে সফল",
+      "swapSuccessful": "সোওয়াপ সফল"
+    }
+  },
+  "warning": {
+    "message": {
+      "deleteActiveTransactions": "",
+      "deleteTransactionHistory": "",
+      "highValueLoss": "প্রাপ্ত টোকেনগুলির মান সোওয়াপ করা টোকেন এবং লেনদেনের খরচের তুলনায় উল্লেখযোগ্যভাবে কম।",
+      "insufficientFunds": "সোওয়াপ সম্পূর্ণ করার জন্য আপনার কাছে পর্যাপ্ত তহবিল নেই।",
+      "insufficientGas": "সোওয়াপ সম্পূর্ণ করার জন্য আপনার কাছে পর্যাপ্ত গ্যাস নেই। আপনাকে অন্তত যোগ করতে হবে:",
+      "rateChanged": "বিনিময় হার পরিবর্তিত হয়েছে। সোওয়াপ চালিয়ে যাওয়ার মাধ্যমে, আপনি নতুন হার গ্রহণ করবেন।",
+      "resetSettings": "এটি আপনার রুটের অগ্রাধিকার, স্লিপেজ, গ্যাসের দাম, সক্ষম ব্রিজ এবং এক্সচেঞ্জ রিসেট করবে।",
+      "slippageOutsideRecommendedLimits": ""
+    },
+    "title": {
+      "deleteActiveTransactions": "",
+      "deleteTransaction": "",
+      "deleteTransactionHistory": "",
+      "highValueLoss": "উচ্চ মূল্য ক্ষতি",
+      "insufficientGas": "অপর্যাপ্ত গ্যাস",
+      "rateChanged": "হার পরিবর্তিত হয়েছে",
+      "resetSettings": "রিসেট সেটিংস?"
+    }
+  },
+  "error": {
+    "message": {
+      "allowanceRequired": "",
+      "insufficientFunds": "",
+      "signatureRejected": "",
+      "slippageThreshold": "স্লিপেজ সংজ্ঞায়িত থ্রেশহোল্ডের চেয়ে বড়। একটি নতুন উদ্ধৃতি পেতে একটি নতুন রুট অনুরোধ করুন।",
+      "transactionFailed": "আরও তথ্যের জন্য ব্লক এক্সপ্লোরার চেক করুন।",
+      "transactionNotSent": "",
+      "transactionCanceled": "",
+      "remainInYourWallet": "",
+      "unknown": "অনুগ্রহ করে আবার চেষ্টা করুন বা সাপোর্ট এর সাথে যোগাযোগ করুন।"
+    },
+    "title": {
+      "addressRequired": "",
+      "allowanceRequired": "",
+      "balanceIsTooLow": "ব্যালেন্স খুব কম",
+      "bookmarkAlreadyExists": "",
+      "bookmarkNameRequired": "",
+      "chainSwitch": "চেইন সুইচ প্রয়োজন",
+      "exchangeRateUpdateCanceled": "",
+      "gasLimitIsTooLow": "গ্যাসের সীমা খুব কম",
+      "insufficientFunds": "",
+      "signatureRejected": "",
+      "slippageNotMet": "স্লিপেজ শর্ত পূরণ করা হয়নি",
+      "transactionCanceled": "লেনদেন বাতিল করা হয়েছে",
+      "transactionFailed": "লেনদেন ব্যর্থ হয়েছে",
+      "transactionUnderpriced": "লেনদেনের দাম কম",
+      "transactionUnprepared": "লেনদেন প্রস্তুত করতে অক্ষম",
+      "unknown": "কিছু ভুল হয়েছে",
+      "walletAddressInvalid": "",
+      "walletAddressRequired": "ওয়ালেট ঠিকানা প্রয়োজন।",
+      "walletChainTypeInvalid": ""
+    }
+  },
+  "tooltip": {
+    "estimatedTime": "মিনিটের মধ্যে আনুমানিক সোওয়াপ কার্যকর করার সময়।",
+    "notFound": {
+      "text": "আমরা এই পৃষ্ঠাটি খুঁজে পাইনি।",
+      "title": "৪০৪"
+    },
+    "numberOfSteps": "সোওয়াপ পদক্ষেপ একটি সংখ্যা. প্রতিটি ধাপে ১-২ টি লেনদেন থাকতে পারে যার জন্য একটি স্বাক্ষর প্রয়োজন।",
+    "progressToNextUpdate": "প্রদর্শিত ডেটা {{value}} সেকেন্ড পরে স্বয়ংক্রিয়ভাবে রিফ্রেশ হবে। ম্যানুয়ালি আপডেট করতে এখানে ক্লিক করুন।",
+    "recommended": "",
+    "settingsModified": "সেটিংস (পরিবর্তিত)",
+    "selectAll": "",
+    "deselectAll": ""
+  },
+  "main": {
+    "crossStepDetails": "{{tool}} হয়ে {{from}} থেকে {{to}} পর্যন্ত ব্রিজ",
+    "currentAmount": "বর্তমান পরিমাণ",
+    "featuredTokens": "বৈশিষ্ট্যযুক্ত টোকেন",
+    "fees": {
+      "estimated": "",
+      "networkEstimated": "",
+      "networkPaid": "",
+      "paid": "",
+      "providerEstimated": "",
+      "providerPaid": ""
+    },
+    "from": "থেকে",
+    "fromAmount": "আপনি টাকা পাঠান",
+    "gasCost": "গ্যাস খরচ",
+    "inProgress": "প্রক্রিয়াধীন",
+    "nftStepDetails": "{{tool}} এর মাধ্যমে এনএফটি কিনুন",
+    "onChain": "{{chainName}} -এ",
+    "otherTokens": "অন্যান্য টোকেন",
+    "ownedBy": "মালিক",
+    "process": {
+      "crossChain": {
+        "actionRequired": "দয়াকরে লেনদেন স্বাক্ষর করুন",
+        "done": "ব্রিজ লেনদেন নিশ্চিত করা হয়েছে",
+        "pending": "ব্রিজ লেনদেনের জন্য অপেক্ষা করছে",
+        "started": "ব্রিজ লেনদেনের প্রস্তুতি"
+      },
+      "nft": {
+        "done": ""
+      },
+      "receivingChain": {
+        "done": "ব্রিজ সম্পন্ন হয়েছে",
+        "partial": "ব্রিজ আংশিকভাবে সম্পন্ন হয়েছে",
+        "pending": "গন্তব্য চেইন এর জন্য অপেক্ষা",
+        "refunded": "ব্রিজ লেনদেন ফেরত করা হয়েছে"
+      },
+      "swap": {
+        "actionRequired": "দয়াকরে লেনদেন স্বাক্ষর করুন",
+        "done": "সোওয়াপ সম্পন্ন হয়েছে",
+        "pending": "সোওয়াপ লেনদেনের জন্য অপেক্ষা করা হচ্ছে",
+        "started": "সোয়াপ লেনদেন প্রস্তুত করা হচ্ছে"
+      },
+      "switchChain": {
+        "actionRequired": "চেইন সুইচ প্রয়োজন",
+        "done": "চেইন সফলভাবে সুইচ করা হয়েছে"
+      },
+      "tokenAllowance": {
+        "done": "টোকেন অনুমতি অনুমোদিত",
+        "pending": "টোকেন অনুমতির অপেক্ষায়",
+        "started": "টোকেন অনুমতির অপেক্ষায়"
+      }
+    },
+    "quotedAmount": "উদ্ধৃত পরিমাণ",
+    "rateChange": "রেট পরিবর্তন",
+    "receiving": "রিসিভিং",
+    "refuelStepDetails": "{{tool}} এর মাধ্যমে গ্যাস পান",
+    "selectChain": "চেইন",
+    "selectChainAndToken": "চেইন এবং টোকেন নির্বাচন করুন",
+    "selectToken": "টোকেন",
+    "sendToAddress": "{{address}} এ পাঠান",
+    "sendToWallet": "অন্য ওয়ালেটে পাঠান",
+    "sending": "",
+    "sentToAddress": "{{address}} এ পাঠানো হয়েছে",
+    "stepBridge": "ব্রিজ",
+    "stepBridgeAndBuy": "",
+    "stepDetails": "লি.ফাই এর মাধ্যমে {{tool}}",
+    "stepSwap": "সোওয়াপ",
+    "stepSwapAndBridge": "সোওয়াপ এবং ব্রিজ",
+    "stepSwapAndBuy": "",
+    "supportId": "সাপোর্ট আইডি",
+    "swapStepDetails": "{{tool}} এর মাধ্যমে {{chain}} এ সোওয়াপ করুন",
+    "tags": {
+      "cheapest": "সস্তা",
+      "fastest": "দ্রুত",
+      "insurable": "বীমাযোগ্য",
+      "insurance": "বীমা",
+      "insured": "বীমাকৃত",
+      "recommended": "",
+      "safest": "নিরাপদ"
+    },
+    "to": "প্রতি",
+    "tokenOnChain": "{{chainName}} -এ {{tokenSymbol}}",
+    "tokenOnChainAmount": "{{amount, number(maximumFractionDigits: 9)}} {{tokenSymbol}} {{chainName}} -এ",
+    "tokenSearch": "আপনার টোকেন অনুসন্ধান করুন",
+    "valueLoss": "মান ক্ষতি"
+  },
+  "insurance": {
+    "bridgeExploits": "ব্রিজের ত্রুটি, হ্যাক বা শোষণ",
+    "insure": "ট্রানজিটে টোকেনের ১০০% বীমা করুন।",
+    "insured": "আপনি ট্রানজিটের ১০০% টোকেন বীমা করেছেন:",
+    "slippageError": "প্রাপ্ত টোকেনগুলির জন্য স্লিপেজে ত্রুটি।"
+  },
+  "settings": {
+    "theme": "",
+    "enabledBridges": "",
+    "enabledExchanges": "",
+    "gasPrice": {
+      "fast": "দ্রুত",
+      "normal": "স্বাভাবিক",
+      "slow": "ধীরে",
+      "title": "গ্যাসের দাম"
+    },
+    "routePriority": "রুট অগ্রাধিকার",
+    "sendToWalletOption": "",
+    "slippage": "স্লিপেজ",
+    "custom": "",
+    "resetSettings": ""
+  },
+  "sendToWallet": {
+    "enterAddress": "",
+    "enterName": "",
+    "confirmWalletAddress": "",
+    "connectedWallets": "",
+    "bookmarkWallet": "",
+    "addBookmark": "",
+    "noBookmarkedWallets": "",
+    "noConnectedWallets": "",
+    "noRecentWallets": ""
+  },
+  "wallet": {
+    "extensionNotFound": "এই ওয়ালেটটি বেছে নেওয়ার আগে দয়া করে নিশ্চিত করুন যে শুধুমাত্র {{name}} ব্রাউজার এক্সটেনশন সক্রিয় আছে।"
+  }
+}
