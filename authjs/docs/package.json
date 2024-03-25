@@ -1,0 +1,56 @@
+{
+  "private": true,
+  "repository": "https://github.com/nextauthjs/next-auth",
+  "name": "docs",
+  "scripts": {
+    "start": "TYPEDOC_WATCH=true docusaurus start --no-open",
+    "dev": "pnpm manifest && pnpm snippets && pnpm start",
+    "build": "pnpm manifest && docusaurus build",
+    "docusaurus": "docusaurus",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear",
+    "manifest": "node scripts/generate-manifest.mjs",
+    "snippets": "node scripts/generate-snippets.mjs"
+  },
+  "dependencies": {
+    "@mdx-js/react": "3.0.0",
+    "classnames": "^2.3.2",
+    "mdx-mermaid": "2.0.0",
+    "mermaid": "10.6.0",
+    "prism-react-renderer": "2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-marquee-slider": "^1.1.5",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "@docusaurus/core": "3.1.1",
+    "@docusaurus/eslint-plugin": "3.1.1",
+    "@docusaurus/module-type-aliases": "3.1.1",
+    "@docusaurus/preset-classic": "3.1.1",
+    "@docusaurus/remark-plugin-npm2yarn": "3.1.1",
+    "@docusaurus/theme-classic": "3.1.1",
+    "@docusaurus/theme-common": "3.1.1",
+    "@docusaurus/theme-mermaid": "3.1.1",
+    "@docusaurus/tsconfig": "3.1.1",
+    "@docusaurus/types": "3.1.1",
+    "docusaurus-plugin-typedoc": "1.0.0-next.22",
+    "typedoc": "0.25.3",
+    "typedoc-plugin-markdown": "4.0.0-next.29",
+    "typescript": "5.2.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
