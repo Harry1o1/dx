@@ -1,7 +1,23 @@
 hello old github repo.
 
-tailwindcss git clone https://github.com/tailwindlabs/tailwindcss.git && cd tailwindcss && rm -rf .git
-sass git clone https://github.com/sass/sass.git && cd sass && rm -rf .git && cd ..
+material-color-utilities 
+```
+git clone https://github.com/material-foundation/material-color-utilities.git colors && cd colors && rm -rf .git && cd ..
+```
+tailwindcss 
+```
+git clone https://github.com/tailwindlabs/tailwindcss.git && cd tailwindcss && rm -rf .git
+```
+sass 
+```
+git clone https://github.com/sass/sass.git && cd sass && rm -rf .git && cd ..
+```
+shadcn-ui 
+```
+git clone https://github.com/shadcn-ui/ui.git && cd ui && rm -rf .git && cd .. 
+```
+old shadcn-ui code.
+```
 import Image from "next/image"
 import Link from "next/link"
 
@@ -181,3 +197,4 @@ export default function IndexPage() {
     </div>
   )
 }
+```
