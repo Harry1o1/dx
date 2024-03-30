@@ -7,7 +7,6 @@
 
 <p align="center">
   Develop. Preview. Share.
-  developing experience or delightfull expreince.
 </p>
 
 <p align="center">
@@ -18,9 +17,9 @@
 </p>
 <br/>
 
-## DX
-
-Dx’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web.
+## What is it?
+ Developing experience or delightfull expreince.
+<!-- Dx’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web. -->
 
 ## Develop
 
@@ -30,29 +29,39 @@ Get started by [importing a project](https://dx.vercel.app/new) or using the [Dx
 
 For details on how to use Dx, check out our [documentation](https://dx.vercel.app/docs).
 
-## folder structure update:
-* final folders list -
-ai
-algorithm
-backend
-blockchain
-config
-database
-design-pattern
-documentation
-frontend
-media
-observability
-package
-payment
-privacy
-roadmap
-script
-security
-test
-theory
-ui
-ux
+## Microservices new final folders list:
+  | List | Folder |
+  | --- | -------- |
+  | 1   | ai |
+  | 2   | algorithm |
+  | 3   | backend |
+  | 4   | benchmark |
+  | 5   | blockchain |
+  | 6   | cloud |
+  | 7   | config |
+  | 8   | database |
+  | 9   | design-pattern |
+  | 10  | documentation |
+  | 11  | external |
+  | 12  | frontend |
+  | 13  | infrastucture |
+  | 14  | internal |
+  | 15  | media |
+  | 16  | observability |
+  | 17  | package |
+  | 18  | platform |
+  | 19  | privacy |
+  | 20  | roadmap |
+  | 21  | script |
+  | 22  | generator |
+  | 23  | test |
+  | 24  | tool |
+  | 25  | theory |
+  | 26  | trend |
+  | 27  | ui |
+  | 28  | ux |
+  | 29  | workspace |
+  | 30  | cybersecurity |
 
 <!-- 1. ai
 2. backend
@@ -90,6 +99,31 @@ ux
 34. workflow
 35. trend -->
 
+<!--
+ai
+algorithm
+backend
+blockchain
+config
+database
+design-pattern
+documentation
+frontend
+media
+observability
+package
+payment
+privacy
+roadmap
+script
+security
+test
+theory
+ui
+ux
+-->
+
+<!--
 In this project I am trying to build a platform to make developer experience (as dx is the shortform) better. By using this developers will manage huge website project more efficiently.It is a huge project so I have devided it in smaller component's like:
 
 1. dx-authflow[having trouble to integrate authentication in your website? you need dx-authflow this thing got -: 536 social login options, all blockchain wallets supported in the world and 3 more awesome feature I just can't explain this project's features in this short description. I sure wasted so many time in this project. but the final results just make this hard work paid off 😊. I can promise you have never seen so much features in an authentication package!!! there is many things to say so just check the github repo -> https://github.com/beingofexistence/dx-authflow.git (status:COMPLETED-@1.0.0)
@@ -112,8 +146,9 @@ In this project I am trying to build a platform to make developer experience (as
 9. dx-animeflow [this project will manage your website's icon - target to cover 5million icons in glassmorphisum,neon,rainbow,animated,sharp,fill,outlined and water-colored 💦 flavors,fonts,dom + window + canvas,animated svg and browser consoles and animations ->  https://github.com/beingofexistence/dx-animeflow.git (status:FAR_FROM_COMPLETED)]
 
 10. dx-paymentflow[ will provide you all payment dealing providers -> https://github.com/beingofexistence/dx-paymentflow.git (status:FAR_FROM_COMPLETED)]
+-->
 
-# OpenSource Cloning / Stealling
+# Motivation
 Dx has used many other opensource github repoes in it.This is not waste of time cause that repoes are fetced automaticlly by Terminalflow and this repoes is used probably in the best way possible by maintaing their copyrights after their repective owners.I used other repoes cause Dx aims to do a lot of things besides + up + down and every way around WWW INTERNET stuffts(not native cause that problem has its own solution guess the unique name would be,,,okay okay.. donot bottheer -> DX Native -I know such a uniqe name "I know I am best at naming stuffs" [And I am too lazy so donot expect me to put logo or link to that website here do it by yourself(Ninja Tecnic For Rankning Searh In Google Search --- and I beg you please go to Dx Native ignoring my bad joke)]).
 And many things are already maded by cool programmers.I can make it but it will littery take me months doing so.Most imporatant thing is that I donot like to build the wheel again and again in this way nothing is going to be better cause we donot live
 forever.But if you thing that this is unfair then look up to
@@ -127,7 +162,27 @@ How to Steall || LOL Just kidding!!! || Anything made by me in exitence plus (an
 ## `manofexistence/dx -> Getting Started`
 
 <details>
-<summary>So, dx by default uses new blazing fast bun runtime but you can also use npm,yarn and pnpm if you want</summary>
+<summary>So, dx by default uses new blazing fast bun runtime but you can also use npm,yarn and pnpm if you want plus some important github repos that you really want to chech yourself!</summary>
+
+material-color-utilities 
+```
+git clone https://github.com/material-foundation/material-color-utilities.git colors && cd colors && rm -rf .git && cd ..
+```
+
+tailwindcss 
+```
+git clone https://github.com/tailwindlabs/tailwindcss.git && cd tailwindcss && rm -rf .git
+```
+
+sass 
+```
+git clone https://github.com/sass/sass.git && cd sass && rm -rf .git && cd ..
+```
+
+shadcn-ui 
+```
+git clone https://github.com/shadcn-ui/ui.git && cd ui && rm -rf .git && cd .. 
+```
 
 ```sh
 bun
@@ -298,6 +353,7 @@ bun start
 | 30   | Radix UI             | 7.5k         |
 </details>
 
+## React best animation libraries.
 | Library       | Description                                                                     | Website                                                                                            |
 |---------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Anime.js      | A lightweight JavaScript animation library with a simple API.                   | Anime.js: https://animejs.com/                                                                     |
@@ -329,11 +385,13 @@ bun start
 
 I hope these brought a smile to your face! 😊
 
+<!--
 <div align="center">
     <a href="https://dx-emon-beingofexistence-shohan.vercel.app/">
         <img src="https://github.com/beingofexistence/dx/assets/103621682/0228bb42-3520-4bb9-9eb1-67704866dfa3" width="300"/>
     </a>
 </div>
+-->
 
 ## License
 Licensed under the [MIT license](https://github.com/beingofexistence/dx/blob/main/LICENSE.md).
@@ -4688,28 +4746,9 @@ It's a great way to learn.
 
 This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work. -->
 
-<-- hello old github repo. -->
+<!-- hello old github repo. -->
 
-material-color-utilities 
-```
-git clone https://github.com/material-foundation/material-color-utilities.git colors && cd colors && rm -rf .git && cd ..
-```
-
-tailwindcss 
-```
-git clone https://github.com/tailwindlabs/tailwindcss.git && cd tailwindcss && rm -rf .git
-```
-
-sass 
-```
-git clone https://github.com/sass/sass.git && cd sass && rm -rf .git && cd ..
-```
-
-shadcn-ui 
-```
-git clone https://github.com/shadcn-ui/ui.git && cd ui && rm -rf .git && cd .. 
-```
-<--
+<!--
 old shadcn-ui code.
 ```
 import Image from "next/image"
