@@ -1,48 +1,34 @@
 <p align="center">
-  <a href="https://vercel.com">
-    <img src="logo.png" height="250">
+  <a href="https://dx.vercel.app">
+    <img src="dx.png" height="250">
     <h3 align="center">Dx</h3>
   </a>
 </p>
 
 <p align="center">
   Develop. Preview. Share.
+  developing experience or delightfull expreince.
 </p>
 
 <p align="center">
-  <a href="https://vercel.com/docs"><strong>Documentation</strong></a> ·
-  <a href="https://vercel.com/changelog"><strong>Changelog</strong></a> ·
-  <a href="https://vercel.com/templates"><strong>Templates</strong></a> ·
-  <a href="https://vercel.com/docs/cli"><strong>CLI</strong></a>
+  <a href="https://dx.vercel.app/docs"><strong>Documentation</strong></a> ·
+  <a href="https://dx.vercel.app/changelog"><strong>Changelog</strong></a> ·
+  <a href="https://dx.vercel.app/templates"><strong>Templates</strong></a> ·
+  <a href="https://dx.vercel.app/docs/cli"><strong>CLI</strong></a>
 </p>
 <br/>
 
-## Vercel
+## DX
 
-Vercel’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web.
+Dx’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web.
 
-## Deploy
+## Develop
 
-Get started by [importing a project](https://vercel.com/new) or using the [Vercel CLI](https://vercel.com/docs/cli). Then, `git push` to deploy.
+Get started by [importing a project](https://dx.vercel.app/new) or using the [Dx CLI](https://dx.vercel.app/docs/cli). Then, `git push` to deploy.
 
 ## Documentation
 
-For details on how to use Vercel, check out our [documentation](https://vercel.com/docs).
-
-## Contributing
-
-This project uses [pnpm](https://pnpm.io/) to install dependencies and run scripts.
-
-You can use the `dev` script to run local changes as if you were invoking Vercel CLI. For example, `vercel deploy --cwd=/path/to/project` could be run with local changes with `pnpm dev deploy --cwd=/path/to/project`.
-
-See the [Contributing Guidelines](./.github/CONTRIBUTING.md) for more details.
-
-## Reference
-
-- [Code of Conduct](./.github/CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](./.github/CONTRIBUTING.md)
-- [Apache 2.0 License](./LICENSE)
-
+For details on how to use Dx, check out our [documentation](https://dx.vercel.app/docs).
 
 ## folder structure update:
 * final folders list -
@@ -68,10 +54,6 @@ theory
 ui
 ux
 
-for i in ls
-do
-  echo"$i ls"
-done
 <!-- 1. ai
 2. backend
 3. benchmark
@@ -108,21 +90,6 @@ done
 34. workflow
 35. trend -->
 
-<!-- * seraparated folders -
-1. frontend (something is fishy here, so have to check it later)
-2. backend
-3. blockchain
-
-* files in folders(mostly in frontend) -
-1. ui
-2. ux
-3. ai
-4. blockchain
-5. authflow
-6. paymentflow
-7. animeflow -->
-
-
 In this project I am trying to build a platform to make developer experience (as dx is the shortform) better. By using this developers will manage huge website project more efficiently.It is a huge project so I have devided it in smaller component's like:
 
 1. dx-authflow[having trouble to integrate authentication in your website? you need dx-authflow this thing got -: 536 social login options, all blockchain wallets supported in the world and 3 more awesome feature I just can't explain this project's features in this short description. I sure wasted so many time in this project. but the final results just make this hard work paid off 😊. I can promise you have never seen so much features in an authentication package!!! there is many things to say so just check the github repo -> https://github.com/beingofexistence/dx-authflow.git (status:COMPLETED-@1.0.0)
@@ -157,7 +124,7 @@ and Dx is one of the most precious one amoung them!!!(LOL)
 
 How to Steall || LOL Just kidding!!! || Anything made by me in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!! like me yeah... yeah yeeah me BeingOfExistence is public and free to use anywhere!!! || Just put (BeingOfExistence => Pleaaases pretty pleasaase!!!) logo in that software or anddd...  in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!!!!
 
-## `beingofexistence/dx -> Getting Started`
+## `manofexistence/dx -> Getting Started`
 
 <details>
 <summary>So, dx by default uses new blazing fast bun runtime but you can also use npm,yarn and pnpm if you want</summary>
@@ -4721,7 +4688,7 @@ It's a great way to learn.
 
 This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work. -->
 
-hello old github repo.
+<-- hello old github repo. -->
 
 material-color-utilities 
 ```
@@ -4742,7 +4709,7 @@ shadcn-ui
 ```
 git clone https://github.com/shadcn-ui/ui.git && cd ui && rm -rf .git && cd .. 
 ```
-
+<--
 old shadcn-ui code.
 ```
 import Image from "next/image"
@@ -4925,8 +4892,8 @@ export default function IndexPage() {
   )
 }
 ```
-dx -> developing experience or delightfull expreince.
 
 - 22/04/2024(Friday)
 somethimes everything sucks. But that time never comes cause every moment is
 already good we just need to so the good things in these situations.
+-->
