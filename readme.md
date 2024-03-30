@@ -159,7 +159,7 @@ and Dx is one of the most precious one amoung them!!!(LOL)
 
 How to Steall || LOL Just kidding!!! || Anything made by me in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!! like me yeah... yeah yeeah me BeingOfExistence is public and free to use anywhere!!! || Just put (BeingOfExistence => Pleaaases pretty pleasaase!!!) logo in that software or anddd...  in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!!!!
 
-## `manofexistence/dx -> Getting Started`
+## `manfromexistence/dx -> Getting Started`
 
 <details>
 <summary>So, dx by default uses new blazing fast bun runtime but you can also use npm,yarn and pnpm if you want plus some important github repos that you really want to chech yourself!</summary>
