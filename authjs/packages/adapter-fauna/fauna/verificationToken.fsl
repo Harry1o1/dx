@@ -1,5 +1,0 @@
-collection VerificationToken {
-    index byIdentifierAndToken {
-        terms [.identifier, .token]
-    }
-}
