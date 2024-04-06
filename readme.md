@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dx.vercel.app">
-    <img src="dx.png" height="250">
+    <img src="logo.png" height="250">
     <h3 align="center">Dx</h3>
   </a>
 </p>
@@ -20,10 +20,6 @@
 ## What is it?
  Developing experience or delightfull expreince.
 <!-- Dx’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web. -->
-
-## Develop
-
-Get started by [importing a project](https://dx.vercel.app/new) or using the [Dx CLI](https://dx.vercel.app/docs/cli). Then, `git push` to deploy.
 
 ## Documentation
 
